@@ -1,0 +1,205 @@
+{
+  "retrievedDate": "2026-10-29",
+  "note": "All brand/product media copied from official shopscentos.com with user authorization. Logo and character crew extracted unchanged from user supplied design PDF. Gallery photographs are official studio inspiration, not user submissions.",
+  "assets": [
+    {
+      "path": "assets/editorial/creative-friends.jpg",
+      "assetUrl": "https://shopscentos.com/cdn/shop/files/STO_AboutUs_Girls.jpg?v=1738616171",
+      "source": "https://shopscentos.com/blogs/news/who-we-are",
+      "bytes": 160891
+    },
+    {
+      "path": "assets/editorial/color-and-sniff.jpg",
+      "assetUrl": "https://shopscentos.com/cdn/shop/files/STO_Shopify_Square_Stationery_A-01.jpg?v=1738621698",
+      "source": "https://shopscentos.com",
+      "bytes": 168652
+    },
+    {
+      "path": "assets/editorial/squishy-fun.jpg",
+      "assetUrl": "https://shopscentos.com/cdn/shop/files/STO_Shopify_Square_Compounds_A-01.jpg?v=1738621808",
+      "source": "https://shopscentos.com",
+      "bytes": 97836
+    },
+    {
+      "path": "assets/editorial/creative-kits.jpg",
+      "assetUrl": "https://shopscentos.com/cdn/shop/files/STO_Shopify_Square_Kits_A-01.jpg?v=1738620746",
+      "source": "https://shopscentos.com",
+      "bytes": 152105
+    },
+    {
+      "path": "assets/brand/scentos-brand-banner.jpg",
+      "assetUrl": "https://shopscentos.com/cdn/shop/collections/STO_Banner-01-01.jpg?v=1685548250",
+      "source": "https://shopscentos.com/collections/scentos",
+      "bytes": 319498
+    },
+    {
+      "path": "assets/brand/weveel-logo.png",
+      "assetUrl": "https://shopscentos.com/cdn/shop/files/WVL_ecom_banner_9c66e796-1006-45be-a3f1-65bf993905ff.png?v=1746044499",
+      "source": "https://shopscentos.com",
+      "bytes": 98798
+    },
+    {
+      "path": "assets/editorial/party-fun.jpg",
+      "assetUrl": "https://shopscentos.com/cdn/shop/collections/512x1084_Party_Banner-01.jpg?v=1685547232",
+      "source": "https://shopscentos.com",
+      "bytes": 215930
+    },
+    {
+      "path": "assets/editorial/on-the-go.jpg",
+      "assetUrl": "https://shopscentos.com/cdn/shop/collections/512x1084_OTG_Banner-01.jpg?v=1685549536",
+      "source": "https://shopscentos.com",
+      "bytes": 345025
+    },
+    {
+      "path": "assets/editorial/school-creativity.jpg",
+      "assetUrl": "https://shopscentos.com/cdn/shop/collections/512x1084_School_Banner-01.jpg?v=1685546879",
+      "source": "https://shopscentos.com",
+      "bytes": 300579
+    },
+    {
+      "path": "assets/editorial/value-packed.jpg",
+      "assetUrl": "https://shopscentos.com/cdn/shop/collections/512x1084_Value_Banner-01.jpg?v=1685548102",
+      "source": "https://shopscentos.com",
+      "bytes": 226901
+    },
+    {
+      "path": "assets/downloads/sheep-clay-guide.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/Sheep_HowTo.jpg",
+      "source": "https://shopscentos.com/pages/scentos%C2%AE-how-tos-and-instructions-us",
+      "bytes": 534502
+    },
+    {
+      "path": "assets/downloads/frog-clay-guide.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/AirDryClayInstructions_frog.jpg",
+      "source": "https://shopscentos.com/pages/scentos%C2%AE-how-tos-and-instructions-us",
+      "bytes": 304979
+    },
+    {
+      "path": "assets/downloads/caterpillar-clay-guide.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/AirDryClayInstructions_caterpillar.jpg",
+      "source": "https://shopscentos.com/pages/scentos%C2%AE-how-tos-and-instructions-us",
+      "bytes": 298100
+    },
+    {
+      "path": "assets/downloads/giraffe-clay-guide.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/AirDryClayInstructions_giraffe.jpg",
+      "source": "https://shopscentos.com/pages/scentos%C2%AE-how-tos-and-instructions-us",
+      "bytes": 310374
+    },
+    {
+      "path": "assets/downloads/horse-clay-guide.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/AirDryClayInstructions_horse.jpg",
+      "source": "https://shopscentos.com/pages/scentos%C2%AE-how-tos-and-instructions-us",
+      "bytes": 309524
+    },
+    {
+      "path": "assets/downloads/lion-clay-guide.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/AirDryClayInstructions_lion.jpg",
+      "source": "https://shopscentos.com/pages/scentos%C2%AE-how-tos-and-instructions-us",
+      "bytes": 323658
+    },
+    {
+      "path": "assets/downloads/octopus-clay-guide.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/AirDryClayInstructions_octopus.jpg",
+      "source": "https://shopscentos.com/pages/scentos%C2%AE-how-tos-and-instructions-us",
+      "bytes": 320127
+    },
+    {
+      "path": "assets/downloads/pig-clay-guide.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/AirDryClayInstructions_pig.jpg",
+      "source": "https://shopscentos.com/pages/scentos%C2%AE-how-tos-and-instructions-us",
+      "bytes": 293966
+    },
+    {
+      "path": "assets/brand/scentos-logo.png",
+      "source": "Scentos独立站对标研究与UI方案-江枫20261029-B.pdf, page 1 embedded native image",
+      "title": "Original Scentos logo extracted from supplied PDF"
+    },
+    {
+      "path": "assets/video/markers-24.mp4",
+      "assetUrl": "https://shopscentos.com/cdn/shop/videos/c/vp/a8e453a0737246fdba03cb9ffe182ffd/a8e453a0737246fdba03cb9ffe182ffd.HD-1080p-2.5Mbps-63804289.mp4?v=0",
+      "source": "https://shopscentos.com/collections/scentos",
+      "bytes": 8518319
+    },
+    {
+      "path": "assets/video/markers-24-poster.jpg",
+      "assetUrl": "https://shopscentos.com/cdn/shop/files/preview_images/a8e453a0737246fdba03cb9ffe182ffd.thumbnail.0000000000.jpg?v=1764101011",
+      "source": "https://shopscentos.com/collections/scentos",
+      "bytes": 236317
+    },
+    {
+      "path": "assets/video/markers-12.mp4",
+      "assetUrl": "https://shopscentos.com/cdn/shop/videos/c/vp/3f2935159cd54e55a9403477ba8cde34/3f2935159cd54e55a9403477ba8cde34.HD-1080p-2.5Mbps-63804291.mp4?v=0",
+      "source": "https://shopscentos.com/collections/scentos",
+      "bytes": 8512583
+    },
+    {
+      "path": "assets/video/markers-12-poster.jpg",
+      "assetUrl": "https://shopscentos.com/cdn/shop/files/preview_images/3f2935159cd54e55a9403477ba8cde34.thumbnail.0000000000.jpg?v=1764101011",
+      "source": "https://shopscentos.com/collections/scentos",
+      "bytes": 239584
+    },
+    {
+      "path": "assets/video/markers-8.mp4",
+      "assetUrl": "https://shopscentos.com/cdn/shop/videos/c/vp/76b209a83cbe499c821326c16f5d26b2/76b209a83cbe499c821326c16f5d26b2.HD-1080p-2.5Mbps-63804288.mp4?v=0",
+      "source": "https://shopscentos.com/collections/scentos",
+      "bytes": 8547688
+    },
+    {
+      "path": "assets/video/markers-8-poster.jpg",
+      "assetUrl": "https://shopscentos.com/cdn/shop/files/preview_images/76b209a83cbe499c821326c16f5d26b2.thumbnail.0000000000.jpg?v=1764101016",
+      "source": "https://shopscentos.com/collections/scentos",
+      "bytes": 243653
+    },
+    {
+      "path": "assets/brand/inter-latin.woff2",
+      "assetUrl": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+      "source": "https://fonts.googleapis.com/css2?family=Nunito:wght@400..900&family=Inter:wght@400..800&display=swap",
+      "license": "SIL Open Font License",
+      "bytes": 48432
+    },
+    {
+      "path": "assets/brand/nunito-latin.woff2",
+      "assetUrl": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaBTMnFcQ.woff2",
+      "source": "https://fonts.googleapis.com/css2?family=Nunito:wght@400..900&family=Inter:wght@400..800&display=swap",
+      "license": "SIL Open Font License",
+      "bytes": 39152
+    },
+    {
+      "path": "assets/editorial/magic-marker-moments.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-classic-markers-8-count-41544257110306.jpg?v=1698246200",
+      "source": "https://shopscentos.com/products/scentos-scented-magic-markers-8-count",
+      "note": "Official Scentos product lifestyle photography, not user submitted UGC."
+    },
+    {
+      "path": "assets/editorial/rainbow-pen-play.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-rainbow-pens-5-count-set-41545502327074.jpg?v=1698248886",
+      "source": "https://shopscentos.com/products/scentos-scented-rainbow-pens-5-count",
+      "note": "Official Scentos product lifestyle photography, not user submitted UGC."
+    },
+    {
+      "path": "assets/editorial/window-daydreams.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-colored-pencils-24-count-set-41545763258658.jpg?v=1698246381",
+      "source": "https://shopscentos.com/products/scented-colored-pencils-24-count",
+      "note": "Official Scentos product lifestyle photography, not user submitted UGC."
+    },
+    {
+      "path": "assets/editorial/doodle-afternoon.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-fine-line-markers-10-pack-set-41544343781666.jpg?v=1698247444",
+      "source": "https://shopscentos.com/products/scentos-scented-fineline-marker-10-pack",
+      "note": "Official Scentos product lifestyle photography, not user submitted UGC."
+    },
+    {
+      "path": "assets/editorial/family-color-time.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-gel-pens-8-count-gel-pen-set-41544352432418.jpg?v=1698247817",
+      "source": "https://shopscentos.com/products/scentos-scented-gel-pens-8-count",
+      "note": "Official Scentos product lifestyle photography, not user submitted UGC."
+    },
+    {
+      "path": "assets/editorial/glitter-doodles.jpg",
+      "assetUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-5-count-glitter-gel-pens-set-41544348991778.jpg?v=1698246191",
+      "source": "https://shopscentos.com/products/scentos-scented-gel-pens-5-count-glitter",
+      "note": "Official Scentos product lifestyle photography, not user submitted UGC."
+    }
+  ]
+}

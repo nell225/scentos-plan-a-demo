@@ -1,0 +1,753 @@
+{
+  "retrievedDate": "2026-10-29",
+  "source": "https://shopscentos.com/products.json?limit=250",
+  "scope": "All 20 products currently published in the official store. 17 Scentos and 3 Sugar Rush items.",
+  "notes": [
+    "No Bath or chalk SKU was publicly available. Outdoor is supported by the official Silly Streamers Outdoor Play tag.",
+    "AgeGroups are browsing bands; minAge remains the product-specific instruction.",
+    "new uses publication date since 2026-08-01; bestseller follows the old homepage Best-Sellers section.",
+    "Only explicitly named fragrances are listed; Fruity/Candy/Sweet are source-level scent families, not invented individual variants."
+  ],
+  "products": [
+    {
+      "id": "scentos®-fruit-scented-chisel-tip-markers-brights-24-count-set",
+      "sourceUrl": "https://shopscentos.com/products/scentos%C2%AE-fruit-scented-chisel-tip-markers-brights-24-count-set",
+      "originalName": "Scentos® Fruit-Scented Chisel-Tip Markers - Brights - 24 Count Set",
+      "originalBodyHtml": "<p>Our scented chisel-tip super-washable markers are back, with a \"glow-up\" of better scents, cuter characters, and longer-lasting color! This sweet-scented pack of twenty-four (24) scented chisel-tip markers are great for kids and adults, students and teachers, classrooms and everyday play! In 12 fruit-scented bright colors, two sets of each color - with scents like watermelon, strawberry, orange, banana, green apple, blueberry, sugared macaron, chocolate and more - feature friendly characters in each adorable design, great for keeping kids engaged in coloring for longer periods. With the ability to write in a thick or thin line, these markers come in a fun pack, perfect for gifts or everyday, great for posters, projects and more - kids and adults worldwide have fallen in love for fifteen years.</p>\n<ul>\n<li>24 Scentos® scented chisel-tip markers (2 sets of 12 colors)</li>\n<li>Angled edge makes thick or thin lines</li>\n<li>Fruity, premium scents and adorably-designed characters on each marker</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic; super washable</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2026-10-07T14:55:31-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-24-count-set/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-24-count-set-1207821429.jpg?v=1763678141",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-24-count-set-1207821429.jpg?v=1763678141&width=1200",
+          "originalWidth": 1501,
+          "originalHeight": 1500
+        },
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-24-count-set/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-24-count-set-1207821431.jpg?v=1763678144",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-24-count-set-1207821431.jpg?v=1763678144&width=1200",
+          "originalWidth": 1501,
+          "originalHeight": 1500
+        },
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-24-count-set/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-24-count-set-1207821428.jpg?v=1763678129",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-24-count-set-1207821428.jpg?v=1763678129&width=1200",
+          "originalWidth": 1501,
+          "originalHeight": 1500
+        },
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-24-count-set/04.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-24-count-set-1207821427.jpg?v=1763678134",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-24-count-set-1207821427.jpg?v=1763678134&width=1200",
+          "originalWidth": 1501,
+          "originalHeight": 1501
+        },
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-24-count-set/06.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-24-count-set-1207821432.jpg?v=1763678138",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-24-count-set-1207821432.jpg?v=1763678138&width=1200",
+          "originalWidth": 1502,
+          "originalHeight": 1502
+        }
+      ]
+    },
+    {
+      "id": "scentos®-fruit-scented-chisel-tip-markers-brights-12-count-set",
+      "sourceUrl": "https://shopscentos.com/products/scentos%C2%AE-fruit-scented-chisel-tip-markers-brights-12-count-set",
+      "originalName": "Scentos® Fruit-Scented Chisel-Tip Markers - Brights - 12 Count Set",
+      "originalBodyHtml": "<p>Our scented chisel-tip super-washable markers are back, with a \"glow-up\" of better scents, cuter characters, and longer-lasting color! This sweet-scented pack of twelve (12) Scentos® scented chisel-tip markers are great for kids and adults, students and teachers, classrooms and everyday play! Twelve fruit-scented bright colors - with scents like watermelon, strawberry, orange, banana, green apple, blueberry, sugared macaron, chocolate and more - feature friendly characters in each adorable design - great for keeping kids engaged in coloring for longer periods. With the ability to write in a thick or thin line, these markers come in a fun pack, perfect for gifts or everyday, great for posters, projects and more - kids and adults worldwide have fallen in love for fifteen years.</p>\n<ul>\n<li>12 <span>Scentos® </span>scented chisel-tip markers</li>\n<li>Angled edge makes thick or thin lines</li>\n<li>Fruity, premium scents and adorably-designed characters on each marker</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic; super washable</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2026-10-07T14:55:30-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-12-count-set/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-12-count-set-1207821434.jpg?v=1763678258",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-12-count-set-1207821434.jpg?v=1763678258&width=1200",
+          "originalWidth": 1501,
+          "originalHeight": 1500
+        },
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-12-count-set/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-12-count-set-1207821433.jpg?v=1763678246",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-12-count-set-1207821433.jpg?v=1763678246&width=1200",
+          "originalWidth": 1501,
+          "originalHeight": 1500
+        },
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-12-count-set/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-12-count-set-1207821436.jpg?v=1763678266",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-12-count-set-1207821436.jpg?v=1763678266&width=1200",
+          "originalWidth": 1501,
+          "originalHeight": 1500
+        },
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-12-count-set/04.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-12-count-set-1207821435.jpg?v=1763678250",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-12-count-set-1207821435.jpg?v=1763678250&width=1200",
+          "originalWidth": 1501,
+          "originalHeight": 1501
+        },
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-12-count-set/06.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-12-count-set-1207821438.jpg?v=1763678135",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-12-count-set-1207821438.jpg?v=1763678135&width=1200",
+          "originalWidth": 1502,
+          "originalHeight": 1502
+        }
+      ]
+    },
+    {
+      "id": "scentos®-fruit-scented-chisel-tip-markers-brights-8-count-set",
+      "sourceUrl": "https://shopscentos.com/products/scentos%C2%AE-fruit-scented-chisel-tip-markers-brights-8-count-set",
+      "originalName": "Scentos® Fruit-Scented Chisel-Tip Markers - Brights - 8 Count Set",
+      "originalBodyHtml": "<p>Our scented chisel-tip super-washable markers are back, with a \"glow-up\" of better scents, cuter characters, and longer-lasting color! This sweet-scented pack of eight (8) Scentos® scented chisel-tip markers are great for kids and adults, students and teachers, classrooms and everyday play! Eight fruit-scented bright colors - with scents like watermelon, strawberry, orange, banana, green apple, blueberry, sugared macaron, chocolate and more - feature friendly characters in each adorable design - great for keeping kids engaged in coloring for longer periods. With the ability to write in a thick or thin line, these markers come in a fun pack, perfect for gifts or everyday, great for posters, projects and more - kids and adults worldwide have fallen in love for fifteen years.</p>\n<ul>\n<li>8 <span>Scentos® </span>scented chisel-tip markers</li>\n<li>Angled edge makes thick or thin lines</li>\n<li>Fruity, premium scents and adorably-designed characters on each marker</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic; super washable</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2026-10-07T14:55:28-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-8-count-set/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-8-count-set-1207821444.jpg?v=1763678367",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-8-count-set-1207821444.jpg?v=1763678367&width=1200",
+          "originalWidth": 1501,
+          "originalHeight": 1501
+        },
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-8-count-set/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-8-count-set-1207821439.jpg?v=1763678378",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-8-count-set-1207821439.jpg?v=1763678378&width=1200",
+          "originalWidth": 1501,
+          "originalHeight": 1501
+        },
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-8-count-set/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-8-count-set-1207821443.jpg?v=1763678370",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-8-count-set-1207821443.jpg?v=1763678370&width=1200",
+          "originalWidth": 1501,
+          "originalHeight": 1501
+        },
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-8-count-set/04.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-8-count-set-1207821441.jpg?v=1763678376",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-8-count-set-1207821441.jpg?v=1763678376&width=1200",
+          "originalWidth": 1501,
+          "originalHeight": 1501
+        },
+        {
+          "localPath": "assets/products/scentos-fruit-scented-chisel-tip-markers-brights-8-count-set/06.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-8-count-set-1207821442.jpg?v=1763678256",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-fruit-scented-chisel-tip-markers-brights-8-count-set-1207821442.jpg?v=1763678256&width=1200",
+          "originalWidth": 1502,
+          "originalHeight": 1502
+        }
+      ]
+    },
+    {
+      "id": "sugar-rush-48-pack-assorted-scented-pens-multicolored",
+      "sourceUrl": "https://shopscentos.com/products/sugar-rush-48-pack-assorted-scented-pens-multicolored",
+      "originalName": "Sugar Rush 48 pack Assorted Scented Pens Multicolored",
+      "originalBodyHtml": "<p><meta charset=\"utf-8\"><span>Explore the delightful world of creativity with our Sugar Rush Scented 48 Pack Mixed Stationery Tub Pack. This vibrant set includes 16 scented gel pens, 16 scented mechanical pencils, and 16 scented fineline markers, each offering a burst of sweet scents to enhance the creative journey. Perfect for young artists, this all-in-one tub provides a sensory-rich journey into drawing and writing. Easy to use, safe and non-toxic, these pens are USA-designed and great for kids and anyone ages 3 and up who wants scented rainbow fun.</span></p>\n<ul class=\"h-display-flex h-flex-direction-col h-flex-wrap h-margin-t-x2 h-margin-b-default\">\n<li class=\"sc-6a3f6e8d-0 llwEvP h-padding-t-x2 h-padding-r-tight h-text-md\">\n<div>\n<div><span>Ideal for drawing, coloring, and writing activities</span></div>\n</div>\n</li>\n<li class=\"sc-6a3f6e8d-0 llwEvP h-padding-t-x2 h-padding-r-tight h-text-md\">\n<div>\n<div><span>Convenient tub for storage and organization</span></div>\n</div>\n</li>\n<li class=\"sc-6a3f6e8d-0 llwEvP h-padding-t-x2 h-padding-r-tight h-text-md\">\n<div>\n<div><span>Includes 16 scented gel pens</span></div>\n</div>\n</li>\n<li class=\"sc-6a3f6e8d-0 llwEvP h-padding-t-x2 h-padding-r-tight h-text-md\">\n<div>\n<div><span>Features 16 scented mechanical pencils</span></div>\n</div>\n</li>\n<li class=\"sc-6a3f6e8d-0 llwEvP h-padding-t-x2 h-padding-r-tight h-text-md\">\n<div>\n<div><span>Contains 16 scented fineline markers</span></div>\n</div>\n</li>\n<li class=\"sc-6a3f6e8d-0 llwEvP h-padding-t-x2 h-padding-r-tight h-text-md\">\n<div>\n<div><span>Variety of sweet scents to enhance creativity</span></div>\n</div>\n</li>\n<li class=\"sc-6a3f6e8d-0 llwEvP h-padding-t-x2 h-padding-r-tight h-text-md\">\n<div>\n<div><span>Safe for young children ages 3 and above</span></div>\n</div>\n</li>\n</ul>\n<!---->",
+      "publishedAt": "2026-10-07T14:55:17-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/sugar-rush-48-pack-assorted-scented-pens-multicolored/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-sugar-rush-48-pack-assorted-scented-pens-multicolored-45758683971874.jpg?v=1726313913",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-sugar-rush-48-pack-assorted-scented-pens-multicolored-45758683971874.jpg?v=1726313913&width=1200",
+          "originalWidth": 1200,
+          "originalHeight": 1200
+        },
+        {
+          "localPath": "assets/products/sugar-rush-48-pack-assorted-scented-pens-multicolored/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-sugar-rush-48-pack-assorted-scented-pens-multicolored-45758684004642.jpg?v=1726313916",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-sugar-rush-48-pack-assorted-scented-pens-multicolored-45758684004642.jpg?v=1726313916&width=1200",
+          "originalWidth": 1200,
+          "originalHeight": 1200
+        },
+        {
+          "localPath": "assets/products/sugar-rush-48-pack-assorted-scented-pens-multicolored/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-sugar-rush-48-pack-assorted-scented-pens-multicolored-45758684037410.jpg?v=1726313919",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-sugar-rush-48-pack-assorted-scented-pens-multicolored-45758684037410.jpg?v=1726313919&width=1200",
+          "originalWidth": 1200,
+          "originalHeight": 1200
+        },
+        {
+          "localPath": "assets/products/sugar-rush-48-pack-assorted-scented-pens-multicolored/04.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-sugar-rush-48-pack-assorted-scented-pens-multicolored-45758684070178.jpg?v=1726313924",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-sugar-rush-48-pack-assorted-scented-pens-multicolored-45758684070178.jpg?v=1726313924&width=1200",
+          "originalWidth": 1200,
+          "originalHeight": 1200
+        },
+        {
+          "localPath": "assets/products/sugar-rush-48-pack-assorted-scented-pens-multicolored/06.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-sugar-rush-48-pack-assorted-scented-pens-multicolored-45758684135714.jpg?v=1726313927",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-sugar-rush-48-pack-assorted-scented-pens-multicolored-45758684135714.jpg?v=1726313927&width=1200",
+          "originalWidth": 1200,
+          "originalHeight": 1200
+        }
+      ]
+    },
+    {
+      "id": "scentos-scented-gel-pens-5-count-glitter",
+      "sourceUrl": "https://shopscentos.com/products/scentos-scented-gel-pens-5-count-glitter",
+      "originalName": "Scentos® Scented 5 Count Glitter Gel Pens Set",
+      "originalBodyHtml": "<p>From the premium scented stationery brand Scentos®, this Scentos® Scented 5 Count Glitter Gel Pens Set contains 5 <meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Scentos®</span> candy-scented gel pens in 5 vibrant colors, all with glitter! Your child will love drawing, coloring, and creating away with this value-packed coloring set. Easy to use, safe and non-toxic, this gel pen set is great for kids and anyone who wants great-smelling, glittery, creative drawing and coloring fun! Perfect to tuck a little magic into the school backpack or purse. ;)<br></p>\n<ul>\n<li>Includes 5 <meta charset=\"utf-8\"> <span data-mce-fragment=\"1\">Scentos® </span>gel pens</li>\n<li>Scented glitter ink in classic fruity scents</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2026-05-01T14:08:23-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/scentos-scented-gel-pens-5-count-glitter/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-5-count-glitter-gel-pens-set-41561987383586.jpg?v=1698246182",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-5-count-glitter-gel-pens-set-41561987383586.jpg?v=1698246182&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scentos-scented-gel-pens-5-count-glitter/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-5-count-glitter-gel-pens-set-41561987416354.jpg?v=1698246185",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-5-count-glitter-gel-pens-set-41561987416354.jpg?v=1698246185&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scentos-scented-gel-pens-5-count-glitter/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-5-count-glitter-gel-pens-set-40331020271906.jpg?v=1698246188",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-5-count-glitter-gel-pens-set-40331020271906.jpg?v=1698246188&width=1200",
+          "originalWidth": 1016,
+          "originalHeight": 1500
+        },
+        {
+          "localPath": "assets/products/scentos-scented-gel-pens-5-count-glitter/04.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-5-count-glitter-gel-pens-set-41544348991778.jpg?v=1698246191",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-5-count-glitter-gel-pens-set-41544348991778.jpg?v=1698246191&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        }
+      ]
+    },
+    {
+      "id": "20-count-scented-crayons",
+      "sourceUrl": "https://shopscentos.com/products/20-count-scented-crayons",
+      "originalName": "Scentos® Scented Crayons 20 Count Set",
+      "originalBodyHtml": "<p>No young artist’s tool kit is complete without a good set of crayons. This pack contains 20 vibrant scented crayons featuring Scentos® famous, premium fruity scents and colorful, vibrant character art to make anyone smile. Packs away in this easy paper box. (Just remember, no matter good your pictures smell, <em>do not eat your art!)</em></p>\n<ul>\n<li>Includes 20 scented crayons</li>\n<li>Feature classic premium fruity scents</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2026-05-01T14:03:32-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/20-count-scented-crayons/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-crayon-scentos-scented-crayons-20-count-set-41546755735842.jpg?v=1698246904",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-crayon-scentos-scented-crayons-20-count-set-41546755735842.jpg?v=1698246904&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/20-count-scented-crayons/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-crayon-scentos-scented-crayons-20-count-set-41522122228002.jpg?v=1698246906",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-crayon-scentos-scented-crayons-20-count-set-41522122228002.jpg?v=1698246906&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/20-count-scented-crayons/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-crayon-scentos-scented-crayons-20-count-set-41522122162466.jpg?v=1698246908",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-crayon-scentos-scented-crayons-20-count-set-41522122162466.jpg?v=1698246908&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        }
+      ]
+    },
+    {
+      "id": "scentos-scented-rainbow-pens-5-count",
+      "sourceUrl": "https://shopscentos.com/products/scentos-scented-rainbow-pens-5-count",
+      "originalName": "Scentos® Scented Rainbow Pens 5 Count Set",
+      "originalBodyHtml": "<p>The original, the one and only, Scentos<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">®</span> rainbow pens! Ten fruity, sweet-treat-scented colors of ink await you in each Scentos® scented rainbow pen in this 5-pack from the premium scented stationery brand, Scentos<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">®.</span> With silly collectible characters and easy, smooth, clickable colors, this Scentos® rainbow pen multi-pack is a great gift for encouraging your child with scented writing, coloring, drawing and more. Easy to use, safe and non-toxic, these pens are USA-designed and great for kids and anyone ages 3 and up who wants Scentos® sweet-scented rainbow fun!<br></p>\n<ul>\n<li>Includes 5 Scentos® rainbow pens</li>\n<li>10 different scented colors per pen with Sweet, fruity scents in every pen</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2026-05-01T13:57:29-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/scentos-scented-rainbow-pens-5-count/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-rainbow-pens-5-count-set-42933731066146.jpg?v=1698246363",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-rainbow-pens-5-count-set-42933731066146.jpg?v=1698246363&width=1200",
+          "originalWidth": 2000,
+          "originalHeight": 2000
+        },
+        {
+          "localPath": "assets/products/scentos-scented-rainbow-pens-5-count/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-rainbow-pens-5-count-set-42933731033378.jpg?v=1698248718",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-rainbow-pens-5-count-set-42933731033378.jpg?v=1698248718&width=1200",
+          "originalWidth": 2000,
+          "originalHeight": 2000
+        },
+        {
+          "localPath": "assets/products/scentos-scented-rainbow-pens-5-count/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-rainbow-pens-5-count-set-42933731098914.jpg?v=1698248721",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-rainbow-pens-5-count-set-42933731098914.jpg?v=1698248721&width=1200",
+          "originalWidth": 2000,
+          "originalHeight": 2000
+        },
+        {
+          "localPath": "assets/products/scentos-scented-rainbow-pens-5-count/04.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-rainbow-pens-5-count-set-41544392507682.jpg?v=1698248882",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-rainbow-pens-5-count-set-41544392507682.jpg?v=1698248882&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scentos-scented-rainbow-pens-5-count/05.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-rainbow-pens-5-count-set-41545502327074.jpg?v=1698248886",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-rainbow-pens-5-count-set-41545502327074.jpg?v=1698248886&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        }
+      ]
+    },
+    {
+      "id": "scentos-scented-pencils-24-count",
+      "sourceUrl": "https://shopscentos.com/products/scentos-scented-pencils-24-count",
+      "originalName": "Scentos® Scented No. 2 Pencils 24 Count Set",
+      "originalBodyHtml": "<p>From the premium scented stationery brand Scentos®, this <meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Scentos</span><meta charset=\"utf-8\"><span data-mce-fragment=\"1\">® </span>sweet-scented pack of 24 colored pencils is a must-have for every kid’s o r adult’s art toolbox. <meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Featuring colorful <meta charset=\"utf-8\">Scentos<meta charset=\"utf-8\">® character art and sweet scents, these #2 leaded pencils are perfect for fun writing, a colorful stocked school kit or rewards in the classroom</span>!</p>\n<ul>\n<li>24 <meta charset=\"utf-8\">\n<span data-mce-fragment=\"1\">Scentos</span><meta charset=\"utf-8\">\n<span data-mce-fragment=\"1\">® </span>scented No.2 pencils</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2026-05-01T13:55:50-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/scentos-scented-pencils-24-count/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-no-2-pencils-24-count-set-42933714223394.jpg?v=1698248528",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-no-2-pencils-24-count-set-42933714223394.jpg?v=1698248528&width=1200",
+          "originalWidth": 1296,
+          "originalHeight": 1500
+        },
+        {
+          "localPath": "assets/products/scentos-scented-pencils-24-count/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-no-2-pencils-24-count-set-42933714190626.jpg?v=1698248530",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-no-2-pencils-24-count-set-42933714190626.jpg?v=1698248530&width=1200",
+          "originalWidth": 2000,
+          "originalHeight": 2000
+        },
+        {
+          "localPath": "assets/products/scentos-scented-pencils-24-count/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-no-2-pencils-24-count-set-41529784926498.jpg?v=1698248534",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-no-2-pencils-24-count-set-41529784926498.jpg?v=1698248534&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scentos-scented-pencils-24-count/04.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-no-2-pencils-24-count-set-41544383201570.jpg?v=1698248537",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-no-2-pencils-24-count-set-41544383201570.jpg?v=1698248537&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        }
+      ]
+    },
+    {
+      "id": "scentos-scented-gel-pens-8-count",
+      "sourceUrl": "https://shopscentos.com/products/scentos-scented-gel-pens-8-count",
+      "originalName": "Scentos® Scented Gel Pens 8 Count Gel Pen Set",
+      "originalBodyHtml": "<p>From the premium scented stationery brand Scentos®, this Scentos® scented gel pen set contains 8 pieces of sweet, fruity-scented gel pen color! Featuring silly <meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Scentos®</span> characters and the best bright, primary 8 colors of smooth writing gel ink, your child will love drawing, coloring, and creating away with this must-have essential pack.</p>\n<ul>\n<li>Includes 8 Scentos® scented gel pens</li>\n<li>Features classic, premium scented colors</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic</li>\n<li>Designed in the USA</li>\n</ul>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/z6YzltsxE4Y?si=Uupfdq88aG-aUUan\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n<p> </p>",
+      "publishedAt": "2024-08-29T15:04:26-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/scentos-scented-gel-pens-8-count/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-gel-pens-8-count-gel-pen-set-41310243782946.jpg?v=1698247808",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-gel-pens-8-count-gel-pen-set-41310243782946.jpg?v=1698247808&width=1200",
+          "originalWidth": 2000,
+          "originalHeight": 2500
+        },
+        {
+          "localPath": "assets/products/scentos-scented-gel-pens-8-count/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-gel-pens-8-count-gel-pen-set-41310243651874.jpg?v=1698247811",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-gel-pens-8-count-gel-pen-set-41310243651874.jpg?v=1698247811&width=1200",
+          "originalWidth": 2000,
+          "originalHeight": 2500
+        },
+        {
+          "localPath": "assets/products/scentos-scented-gel-pens-8-count/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-gel-pens-8-count-gel-pen-set-41310243684642.jpg?v=1698247814",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-gel-pens-8-count-gel-pen-set-41310243684642.jpg?v=1698247814&width=1200",
+          "originalWidth": 2000,
+          "originalHeight": 2500
+        },
+        {
+          "localPath": "assets/products/scentos-scented-gel-pens-8-count/04.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-gel-pens-8-count-gel-pen-set-41544352432418.jpg?v=1698247817",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-gel-pens-8-count-gel-pen-set-41544352432418.jpg?v=1698247817&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        }
+      ]
+    },
+    {
+      "id": "scentos-scented-magic-markers-8-count",
+      "sourceUrl": "https://shopscentos.com/products/scentos-scented-magic-markers-8-count",
+      "originalName": "Scentos® Scented Classic Markers - 8 Count",
+      "originalBodyHtml": "<meta charset=\"utf-8\">\n<p>From the premium scented stationery brand Scentos®, this sweet-scented pack of 8 classic sized markers is a staple of any child’s art toolbox. This essential school pack is the best fit for a school supplies kit, backpack, on-the-go coloring kit, or to pair with coloring books as the most classic gift. Enjoy countless hours of fun exploring your imagination and creativity!</p>\n<ul>\n<li>Includes 8 scented markers in primary colors (shown)</li>\n<li>Features classic, fruity scents</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2024-01-03T12:43:57-05:00",
+      "images": [
+        {
+          "localPath": "assets/products/scentos-scented-magic-markers-8-count/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-classic-markers-8-count-41301871198498.jpg?v=1698246194",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-classic-markers-8-count-41301871198498.jpg?v=1698246194&width=1200",
+          "originalWidth": 2000,
+          "originalHeight": 2500
+        },
+        {
+          "localPath": "assets/products/scentos-scented-magic-markers-8-count/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-classic-markers-8-count-41301871034658.jpg?v=1698246197",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-classic-markers-8-count-41301871034658.jpg?v=1698246197&width=1200",
+          "originalWidth": 2522,
+          "originalHeight": 2560
+        },
+        {
+          "localPath": "assets/products/scentos-scented-magic-markers-8-count/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-classic-markers-8-count-41544257110306.jpg?v=1698246200",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-classic-markers-8-count-41544257110306.jpg?v=1698246200&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scentos-scented-magic-markers-8-count/04.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-classic-markers-8-count-41301871001890.jpg?v=1698246365",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-classic-markers-8-count-41301871001890.jpg?v=1698246365&width=1200",
+          "originalWidth": 2560,
+          "originalHeight": 2560
+        },
+        {
+          "localPath": "assets/products/scentos-scented-magic-markers-8-count/05.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-classic-markers-8-count-41301871132962.jpg?v=1698246369",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-classic-markers-8-count-41301871132962.jpg?v=1698246369&width=1200",
+          "originalWidth": 2546,
+          "originalHeight": 2094
+        }
+      ]
+    },
+    {
+      "id": "scentos-scented-fineliner-pens-24-pack",
+      "sourceUrl": "https://shopscentos.com/products/scentos-scented-fineliner-pens-24-pack",
+      "originalName": "Scentos® Scented Fineliner Pens 24 Pack",
+      "originalBodyHtml": "<p>If you are looking for scented pens, look no further than this <meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Scentos® Scented Fineliner 24 Pack, perfect for school activities and colorful writing. Featuring 24 <meta charset=\"utf-8\">Scentos® Scented Fineliner Pens, this <meta charset=\"utf-8\">Scentos® 24 pack of Fineliner Pens are easy to hold for little hands, with <meta charset=\"utf-8\">Scentos® famous fruity scents in bright colors for hours of creative, scented writing.</span></p>\n<ul>\n<li><span data-mce-fragment=\"1\">24 pack of <meta charset=\"utf-8\">Scentos® Scented Fineliner Pens</span></li>\n<li><span data-mce-fragment=\"1\">Easy to Hold for Smaller Hands</span></li>\n<li><span data-mce-fragment=\"1\">Safe, Non-Toxic Materials</span></li>\n<li><span data-mce-fragment=\"1\">Bright Colors</span></li>\n<li><span data-mce-fragment=\"1\">Ages 4 and up</span></li>\n<li><span data-mce-fragment=\"1\">Designed in the USA</span></li>\n</ul>",
+      "publishedAt": "2023-11-06T04:28:35-05:00",
+      "images": [
+        {
+          "localPath": "assets/products/scentos-scented-fineliner-pens-24-pack/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-scentos-scented-fineliner-pens-24-pack-42709479489826.jpg?v=1698247629",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-scentos-scented-fineliner-pens-24-pack-42709479489826.jpg?v=1698247629&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scentos-scented-fineliner-pens-24-pack/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-scentos-scented-fineliner-pens-24-pack-42709479293218.jpg?v=1698247632",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-scentos-scented-fineliner-pens-24-pack-42709479293218.jpg?v=1698247632&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scentos-scented-fineliner-pens-24-pack/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-scentos-scented-fineliner-pens-24-pack-42709479227682.jpg?v=1698247634",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-scentos-scented-fineliner-pens-24-pack-42709479227682.jpg?v=1698247634&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        }
+      ]
+    },
+    {
+      "id": "scentos-scented-gel-pens-24pc",
+      "sourceUrl": "https://shopscentos.com/products/scentos-scented-gel-pens-24pc",
+      "originalName": "Scentos® Scented Gel Pens Sampler 24 Pack",
+      "originalBodyHtml": "<p>Love every kind of Scentos® scented gel pens but can't choose one style? This Scentos® Scented Gel Pens 24 Pack is just for you, with 8 Neon Fluorescent Scentos® Gel Pens, 8 Metallic Scentos® Gel Pens and 8 Glitter Ink Scentos® Gel Pens. Perfect for creative scented writing and school activities, this Scentos® Scented Gel Pens Sampler 24 Pack will bring scented writing fun to all of your activities!<br></p>\n<ul>\n<li>Scentos® Scented Gel Pens Sampler 24 Pack</li>\n<li>8 Neon Fluorescent Scentos® Scented Gel Pens</li>\n<li>8 Metallic Scentos® Scented Gel Pens</li>\n<li>8 Glitter Ink Scentos® Scented Gel Pens</li>\n<li>Ages 4 and up</li>\n<li>Bright Colors and Scentos® Fruity Scents</li>\n<li>Safe, Non-Toxic Materials</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2023-11-06T04:28:24-05:00",
+      "images": [
+        {
+          "localPath": "assets/products/scentos-scented-gel-pens-24pc/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-scentos-scented-gel-pens-sampler-24-pack-42891076272418.jpg?v=1698247820",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-scentos-scented-gel-pens-sampler-24-pack-42891076272418.jpg?v=1698247820&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scentos-scented-gel-pens-24pc/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-scentos-scented-gel-pens-sampler-24-pack-42891076043042.jpg?v=1698247982",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-scentos-scented-gel-pens-sampler-24-pack-42891076043042.jpg?v=1698247982&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scentos-scented-gel-pens-24pc/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-scentos-scented-gel-pens-sampler-24-pack-42891076108578.jpg?v=1698247985",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-scentos-scented-gel-pens-sampler-24-pack-42891076108578.jpg?v=1698247985&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        }
+      ]
+    },
+    {
+      "id": "scentos-scented-slime-sand-dough-18-piece-set",
+      "sourceUrl": "https://shopscentos.com/products/scentos-scented-slime-sand-dough-18-piece-set",
+      "originalName": "Scentos® Scented 18 Piece Slime, Sand, Dough Value Set",
+      "originalBodyHtml": "<p>Wow, this Scentos® Scented Slime, Sand, Dough Value Set has everything you could want in the perfect compounds set! Buy this Scentos® pack for classrooms, giveaways, gifts, party favors and party gift bags, Halloween non-candy treats or for taking mini compounds on the go - or just to give a child that perfect sampler pack of maximum colors, scents and textures! This value-packed set comes with 18 different samples of your favorite, scent-tastic compounds: featuring 6 packs of brightly-colored Scentos® Scented Dough, 6 1oz. tubs of Scentos® Scented Sand, and 6 1oz. tubs of Scentos® Scented Slime! Everything in this set is <span data-mce-fragment=\"1\">washable, kid-safe and ready for use on the go or anywhere, again and again! </span></p>\n<ul>\n<li><span data-mce-fragment=\"1\">Features 6 Scentos® scented dough packs, 6 Scentos® scented slime tubs, 6 Scentos® scented cloud sand tubs</span></li>\n<li>Featuring fruity, classic Scentos<span data-mce-fragment=\"1\">®</span><span> </span>scents</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2023-07-30T22:25:40-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/scentos-scented-slime-sand-dough-18-piece-set/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-dough-scentos-scented-18-piece-slime-sand-dough-value-set-42063276081442.jpg?v=1698245825",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-dough-scentos-scented-18-piece-slime-sand-dough-value-set-42063276081442.jpg?v=1698245825&width=1200",
+          "originalWidth": 2408,
+          "originalHeight": 2408
+        },
+        {
+          "localPath": "assets/products/scentos-scented-slime-sand-dough-18-piece-set/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-dough-scentos-scented-18-piece-slime-sand-dough-value-set-42063275983138.jpg?v=1698245829",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-dough-scentos-scented-18-piece-slime-sand-dough-value-set-42063275983138.jpg?v=1698245829&width=1200",
+          "originalWidth": 2408,
+          "originalHeight": 2408
+        },
+        {
+          "localPath": "assets/products/scentos-scented-slime-sand-dough-18-piece-set/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-dough-scentos-scented-18-piece-slime-sand-dough-value-set-42063276245282.jpg?v=1698245831",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-dough-scentos-scented-18-piece-slime-sand-dough-value-set-42063276245282.jpg?v=1698245831&width=1200",
+          "originalWidth": 2408,
+          "originalHeight": 2408
+        }
+      ]
+    },
+    {
+      "id": "sugar-rush-scented-colored-gel-pens-24-pack-set",
+      "sourceUrl": "https://shopscentos.com/products/sugar-rush-scented-colored-gel-pens-24-pack-set",
+      "originalName": "Sugar Rush® Scented Colored Gel Pens 24 Pack Set",
+      "originalBodyHtml": "<p>From the premium scented stationery brand Scentos®, this Sugar Rush® Scented Colored Gel Pens 24 Pack Set contains 24 Sugar Rush<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">®</span> candy-scented gel pens in vibrant colors and glitter! Your child will love drawing, coloring, and creating away with this value-packed coloring set. Easy to use, safe and non-toxic, this Sugar Rush® Scented Colored gel pen set is great for kids and anyone who wants great-smelling, creative drawing and coloring fun!</p>\n<ul>\n<li>Includes 24 Sugar Rush® gel pens with 12 Sugar Rush® glitter pens</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2023-05-14T23:52:55-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/sugar-rush-scented-colored-gel-pens-24-pack-set/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-sugar-rush-scented-colored-gel-pens-24-pack-set-41544458764578.jpg?v=1698250335",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-sugar-rush-scented-colored-gel-pens-24-pack-set-41544458764578.jpg?v=1698250335&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/sugar-rush-scented-colored-gel-pens-24-pack-set/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-sugar-rush-scented-colored-gel-pens-24-pack-set-41537344831778.jpg?v=1698250338",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-sugar-rush-scented-colored-gel-pens-24-pack-set-41537344831778.jpg?v=1698250338&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/sugar-rush-scented-colored-gel-pens-24-pack-set/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-sugar-rush-scented-colored-gel-pens-24-pack-set-41537344766242.jpg?v=1698250341",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-sugar-rush-scented-colored-gel-pens-24-pack-set-41537344766242.jpg?v=1698250341&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        }
+      ]
+    },
+    {
+      "id": "sugar-rush-candy-scented-gel-pens-24-pack-set",
+      "sourceUrl": "https://shopscentos.com/products/sugar-rush-candy-scented-gel-pens-24-pack-set",
+      "originalName": "Sugar Rush® Candy Scented Gel Pens 24 Pack Set",
+      "originalBodyHtml": "<p>From the premium scented stationery brand Scentos®, this Sugar Rush® 24 Pack set contains sweet, candy-scented Sugar Rush<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">®</span> gel pens in 24 brilliant colors! Each pen features a yummy scent, smooth writing, and bright beautiful color. Your child will love drawing, coloring, and creating away with this value-packed Sugar Rush® coloring set. </p>\n<ul>\n<li>Includes 24 Sugar Rush® scented gel pens</li>\n<li>Smooth gel writing<br>\n</li>\n<li>Features our Sugar Rush® fun, candy-scented colors</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2023-05-14T23:52:55-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/sugar-rush-candy-scented-gel-pens-24-pack-set/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-sugar-rush-candy-scented-gel-pens-24-pack-set-41308749758754.jpg?v=1698249962",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-sugar-rush-candy-scented-gel-pens-24-pack-set-41308749758754.jpg?v=1698249962&width=1200",
+          "originalWidth": 940,
+          "originalHeight": 1148
+        },
+        {
+          "localPath": "assets/products/sugar-rush-candy-scented-gel-pens-24-pack-set/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-sugar-rush-candy-scented-gel-pens-24-pack-set-41308749889826.jpg?v=1698249966",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-sugar-rush-candy-scented-gel-pens-24-pack-set-41308749889826.jpg?v=1698249966&width=1200",
+          "originalWidth": 1156,
+          "originalHeight": 1161
+        },
+        {
+          "localPath": "assets/products/sugar-rush-candy-scented-gel-pens-24-pack-set/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-sugar-rush-candy-scented-gel-pens-24-pack-set-41308749857058.jpg?v=1698249969",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-sugar-rush-candy-scented-gel-pens-24-pack-set-41308749857058.jpg?v=1698249969&width=1200",
+          "originalWidth": 1200,
+          "originalHeight": 1143
+        }
+      ]
+    },
+    {
+      "id": "scented-colored-pencils-24-count",
+      "sourceUrl": "https://shopscentos.com/products/scented-colored-pencils-24-count",
+      "originalName": "Scentos® Scented Colored Pencils 24 Count Set",
+      "originalBodyHtml": "<p>From the premium scented stationery brand Scentos®, this sweet-scented pack of 24 <meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Scentos® </span>colored pencils is a must-have for every kid’s (or adult’s) art toolbox. Enjoy countless hours of fun exploring your imagination and creativity! Box comes with a \"scratch n' sniff\" feature to let you know what great scents await!</p>\n<ul>\n<li>24 <meta charset=\"utf-8\"> <span data-mce-fragment=\"1\">Scentos® </span>scented colored pencils</li>\n<li>Fruity, premium scents with every pencil</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2023-05-14T23:52:53-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/scented-colored-pencils-24-count/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-colored-pencils-24-count-set-41561095110946.jpg?v=1698246371",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-colored-pencils-24-count-set-41561095110946.jpg?v=1698246371&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scented-colored-pencils-24-count/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-colored-pencils-24-count-set-41561095078178.jpg?v=1698246374",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-colored-pencils-24-count-set-41561095078178.jpg?v=1698246374&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scented-colored-pencils-24-count/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-colored-pencils-24-count-set-41561095012642.jpg?v=1698246377",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-colored-pencils-24-count-set-41561095012642.jpg?v=1698246377&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scented-colored-pencils-24-count/04.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-colored-pencils-24-count-set-41545763258658.jpg?v=1698246381",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-pencil-scentos-scented-colored-pencils-24-count-set-41545763258658.jpg?v=1698246381&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        }
+      ]
+    },
+    {
+      "id": "50-count-scented-fibre-tip-pen",
+      "sourceUrl": "https://shopscentos.com/products/50-count-scented-fibre-tip-pen",
+      "originalName": "Scentos® Scented Fibre Tip Pens 50 Count Set",
+      "originalBodyHtml": "<p>It’s a coloring party in a box! This Scentos® set comes with 50 fibre-tipped pens in a wide array of rich colors. Not only that, but the ink is super washable for less-messy fun! (We’ve got your back, grown-ups.)</p>\n<ul>\n<li>Includes 50 <meta charset=\"utf-8\"> <span data-mce-fragment=\"1\">Scentos® </span>fibre-tipped pens</li>\n<li>Classic fruity scents with every color</li>\n<li>Washable ink</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2023-05-14T23:52:51-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/50-count-scented-fibre-tip-pen/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-felt-tip-pen-scentos-scented-fibre-tip-pens-50-count-set-41300905099554.jpg?v=1698247099",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-felt-tip-pen-scentos-scented-fibre-tip-pens-50-count-set-41300905099554.jpg?v=1698247099&width=1200",
+          "originalWidth": 2000,
+          "originalHeight": 2000
+        },
+        {
+          "localPath": "assets/products/50-count-scented-fibre-tip-pen/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-felt-tip-pen-scentos-scented-fibre-tip-pens-50-count-set-42051155558690.jpg?v=1698247101",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-felt-tip-pen-scentos-scented-fibre-tip-pens-50-count-set-42051155558690.jpg?v=1698247101&width=1200",
+          "originalWidth": 1500,
+          "originalHeight": 1500
+        },
+        {
+          "localPath": "assets/products/50-count-scented-fibre-tip-pen/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-felt-tip-pen-scentos-scented-fibre-tip-pens-50-count-set-41522550407458.jpg?v=1698247263",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-felt-tip-pen-scentos-scented-fibre-tip-pens-50-count-set-41522550407458.jpg?v=1698247263&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        }
+      ]
+    },
+    {
+      "id": "scentos-scented-fineline-marker-10-pack",
+      "sourceUrl": "https://shopscentos.com/products/scentos-scented-fineline-marker-10-pack",
+      "originalName": "Scentos® Scented Fine Line Markers 10 Pack Set",
+      "originalBodyHtml": "<p>From the premium scented stationery brand Scentos®, this <meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Scentos® 10 Pack </span>scented fine line markers set contains 10 different sweet-scented marker colors! The fine line tips offer greater control over detail. Your child will love drawing, coloring, and creating away with this pen set. Great for backpacks, school, play and travel!</p>\n<ul>\n<li>Fine line tips for more detailed control</li>\n<li>Featuring <meta charset=\"utf-8\">\n<span data-mce-fragment=\"1\">Scentos® </span>classic, premium fruity and sweet scents</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2023-05-14T23:52:51-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/scentos-scented-fineline-marker-10-pack/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-fine-line-markers-10-pack-set-41300811940130.jpg?v=1698247278",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-fine-line-markers-10-pack-set-41300811940130.jpg?v=1698247278&width=1200",
+          "originalWidth": 1999,
+          "originalHeight": 2500
+        },
+        {
+          "localPath": "assets/products/scentos-scented-fineline-marker-10-pack/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-fine-line-markers-10-pack-set-41300811907362.jpg?v=1698247281",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-fine-line-markers-10-pack-set-41300811907362.jpg?v=1698247281&width=1200",
+          "originalWidth": 2000,
+          "originalHeight": 2500
+        },
+        {
+          "localPath": "assets/products/scentos-scented-fineline-marker-10-pack/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-fine-line-markers-10-pack-set-41300811972898.jpg?v=1698247447",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-fine-line-markers-10-pack-set-41300811972898.jpg?v=1698247447&width=1200",
+          "originalWidth": 2000,
+          "originalHeight": 2500
+        },
+        {
+          "localPath": "assets/products/scentos-scented-fineline-marker-10-pack/04.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-fine-line-markers-10-pack-set-41544343781666.jpg?v=1698247444",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-marker-scentos-scented-fine-line-markers-10-pack-set-41544343781666.jpg?v=1698247444&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        }
+      ]
+    },
+    {
+      "id": "12-pack-scented-mini-ball-point-pens",
+      "sourceUrl": "https://shopscentos.com/products/12-pack-scented-mini-ball-point-pens",
+      "originalName": "Scentos® Scented 12 Pack Mini Ball Point Pens",
+      "originalBodyHtml": "<p>From the premium scented stationery brand Scentos®, this <meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Scentos® </span>scented mini ball point pen set has 12 sweet-scented colors! Featuring silly Scentos<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">®</span> characters and their fruity-sweet signature scents, your child will love drawing, coloring, and creating away with this value-packed creative set. Easy to use, safe and non-toxic, this mini gel pen creative writing set is USA-designed and great for kids and anyone ages 3 and up who wants great-smelling, creative fun. Perfect for splitting up and giving in party bags - buy a ton and give them out!<br></p>\n<ul>\n<li>Includes 12 <meta charset=\"utf-8\"> <span data-mce-fragment=\"1\">Scentos® </span>scented mini ball point pens</li>\n<li>Bright, jewel-tone color caps and fun character art</li>\n<li>Easy to use for ages 3+</li>\n<li>Safe and non-toxic</li>\n<li>Designed in the USA</li>\n</ul>",
+      "publishedAt": "2023-05-14T23:52:50-04:00",
+      "images": [
+        {
+          "localPath": "assets/products/12-pack-scented-mini-ball-point-pens/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-12-pack-mini-ball-point-pens-41520166469922.jpg?v=1698245655",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-12-pack-mini-ball-point-pens-41520166469922.jpg?v=1698245655&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/12-pack-scented-mini-ball-point-pens/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-12-pack-mini-ball-point-pens-41520166535458.jpg?v=1698245657",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-12-pack-mini-ball-point-pens-41520166535458.jpg?v=1698245657&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/12-pack-scented-mini-ball-point-pens/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-12-pack-mini-ball-point-pens-41520166404386.jpg?v=1698245660",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-12-pack-mini-ball-point-pens-41520166404386.jpg?v=1698245660&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/12-pack-scented-mini-ball-point-pens/04.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-12-pack-mini-ball-point-pens-41544366752034.jpg?v=1698245822",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-gel-pen-scentos-scented-12-pack-mini-ball-point-pens-41544366752034.jpg?v=1698245822&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        }
+      ]
+    },
+    {
+      "id": "scentos-scented-party-string-streamers-spray",
+      "sourceUrl": "https://shopscentos.com/products/scentos-scented-party-string-streamers-spray",
+      "originalName": "Scentos® Scented Silly Streamers 12-Pack 3-Ounce Party String",
+      "originalBodyHtml": "<p data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Now it’s a party!</em> … or it could be with this 12-pack of Scentos® Scented Silly Streamers. <meta charset=\"utf-8\"><span data-mce-fragment=\"1\">These instant spray silly streamers are </span><span data-mce-fragment=\"1\">oodles of squiggly, party-packed fun! </span>Each of the 4 colors (red, purple, blue, and green) has its own fruity-sweet scent and the easy-to-use spray cans are a great fit for small hands. Perfect for birthday parties, surprises, gender reveals, holiday gatherings and other special occasions!<br></p>\n<ul data-mce-fragment=\"1\" class=\"a-unordered-list a-vertical a-spacing-mini\">\n<li data-mce-fragment=\"1\">12 cans of Scentos® Scented Silly Streamers</li>\n<li data-mce-fragment=\"1\">4 colors: red, purple, blue, green</li>\n<li data-mce-fragment=\"1\">Easy to use for ages 4+</li>\n<li data-mce-fragment=\"1\">Safe and non-toxic, cleans up easily</li>\n<li data-mce-fragment=\"1\">Designed in the USA </li>\n</ul>\n<p><iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/a7ptN0iYT3A?si=_J1QjIxkxZdeCRcn\" height=\"150\" width=\"360\"></iframe></p>",
+      "publishedAt": "2023-01-12T16:34:05-05:00",
+      "images": [
+        {
+          "localPath": "assets/products/scentos-scented-party-string-streamers-spray/01.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-silly-streamer-scentos-scented-silly-streamers-12-pack-3-ounce-party-string-41562487292194.jpg?v=1698249243",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-silly-streamer-scentos-scented-silly-streamers-12-pack-3-ounce-party-string-41562487292194.jpg?v=1698249243&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scentos-scented-party-string-streamers-spray/02.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-silly-streamer-scentos-scented-silly-streamers-12-pack-3-ounce-party-string-41562487161122.jpg?v=1698249247",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-silly-streamer-scentos-scented-silly-streamers-12-pack-3-ounce-party-string-41562487161122.jpg?v=1698249247&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scentos-scented-party-string-streamers-spray/03.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-silly-streamer-scentos-scented-silly-streamers-12-pack-3-ounce-party-string-41562487193890.jpg?v=1698249246",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-silly-streamer-scentos-scented-silly-streamers-12-pack-3-ounce-party-string-41562487193890.jpg?v=1698249246&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scentos-scented-party-string-streamers-spray/04.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-silly-streamer-scentos-scented-silly-streamers-12-pack-3-ounce-party-string-41544396407074.jpg?v=1698249251",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-silly-streamer-scentos-scented-silly-streamers-12-pack-3-ounce-party-string-41544396407074.jpg?v=1698249251&width=1200",
+          "originalWidth": 2048,
+          "originalHeight": 2048
+        },
+        {
+          "localPath": "assets/products/scentos-scented-party-string-streamers-spray/08.jpg",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-silly-streamer-scentos-scented-silly-streamers-12-pack-3-ounce-party-string-41562576257314.jpg?v=1698249260",
+          "downloadUrl": "https://cdn.shopify.com/s/files/1/0705/5668/0482/files/shopscentos-silly-streamer-scentos-scented-silly-streamers-12-pack-3-ounce-party-string-41562576257314.jpg?v=1698249260&width=1200",
+          "originalWidth": 2044,
+          "originalHeight": 2044
+        }
+      ]
+    }
+  ]
+}
